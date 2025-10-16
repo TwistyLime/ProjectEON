@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "eon:night_vision_goggles",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/night_vision_goggles"
+            },
+            "geometry": {
+                "default": "geometry.night_vision_goggles"
+            },
+            "scripts": {
+                "parent_setup": "variable.chest_layer_visible = 0.0;"
+            },
+            "render_controllers": ["controller.render.skeleton"]
+        }
+    }
+}

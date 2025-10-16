@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:gravity_pad_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "cQc",
+            "ccc"
+        ],
+        "key": {
+            "c": {
+                "item": "eon:steel_ingot"
+            },
+            "Q": {
+                "item": "eon:gravity_core"
+            }
+        },
+        "result": {
+            "item": "eon:gravity_pad",
+            "count": 1
+        }
+    }
+}

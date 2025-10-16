@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:raw_uranium_block_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "###",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "eon:raw_uranium"
+            }
+        },
+        "result": {
+            "item": "eon:raw_uranium_block",
+            "count": 1
+        }
+    }
+}

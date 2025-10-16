@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eon:power_sphere"
+		},
+		"components": {
+			"minecraft:icon": "power_sphere",
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}

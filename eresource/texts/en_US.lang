@@ -1,0 +1,54 @@
+item.eon:guide.name=§l§3『 Project Eon Guide 』§r
+tile.eon:steel_ore.name=Steel Ore
+tile.eon:deepslate_steel_ore.name=Deepslate Steel Ore
+tile.eon:raw_steel_block.name=Block of Raw Steel
+tile.eon:steel_block.name=Block of Steel
+item.eon:raw_steel.name=Raw Steel
+item.eon:steel_ingot.name=Steel Ingot
+
+tile.eon:uranium_ore.name=Uranium Ore
+item.eon:raw_uranium.name=Raw Uranium
+item.eon:uranium_ingot.name=Uranium Ingot
+tile.eon:raw_uranium_block.name=Block of Raw Uranium
+tile.eon:uranium_block.name=Block of Uranium
+
+tile.eon:gravitite_ore.name=Gravitite Ore
+item.eon:gravitite_shard.name=Gravitite Shard
+
+item.eon:access_card.name=Access Card
+item.eon:power_sphere.name=Power Sphere
+item.eon:program_chip.name=Program Chip
+item.eon:gravity_core.name=Gravity Core
+item.eon:hover_engine.name=Hover Engine
+item.eon:hover_frame.name=Hover Frame
+
+entity.eon:hover_bike.name=Hover Bike
+entity.eon:hover_bike_2.name=Hover Bike 2
+item.spawn_egg.entity.eon:hover_bike.name=Deploy Hover Bike (Right Click on Ground)
+item.spawn_egg.entity.eon:hover_bike_2.name=Deploy Hover Bike 2 (Right Click on Ground)
+action.hint.exit.eon:hover_bike=Press [Sneak] to exit the Hover Bike
+action.hint.exit.eon:hover_bike_2=Press [Sneak] to exit the Hover Bike
+
+tile.eon:gravity_pad.name=Gravity Pad
+
+item.eon:hazmat_helmet=Hazmat Helmet
+item.eon:hazmat_chestplate=Hazmat Chestplate
+item.eon:hazmat_leggings=Hazmat Leggings
+item.eon:hazmat_boots=Hazmat Boots
+
+item.eon:cloth.name=Cloth
+item.eon:reinforced_cloth.name=Reinforced Cloth
+
+tile.eon:gravity_gun.name=Gravity Gun (Right Click to Activate)
+tile.eon:dome_shield.name=Dome Shield
+
+item.eon:blue_light_saber=Light Saber (Blue)
+item.eon:red_light_saber=Light Saber (Red)
+
+entity.eon:robot_dog.name=Robot Dog
+item.spawn_egg.entity.eon:robot_dog.name=Spawn Robot Dog
+entity.eon:robot_cat.name=Robot Cat
+item.spawn_egg.entity.eon:robot_cat.name=Spawn Robot Cat
+
+tile.eon:healing_station.name=Healing Station
+item.eon:durability_restore=Durability Matrix

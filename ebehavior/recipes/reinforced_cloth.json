@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:reinforced_cloth_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " c ",
+            "csc",
+            " c "
+        ],
+        "key": {
+            "c": {
+                "item": "eon:cloth"
+            },
+            "s": {
+                "item": "eon:steel_ingot"
+            }
+        },
+        "result": {
+            "item": "eon:reinforced_cloth",
+            "count": 2
+        }
+    }
+}

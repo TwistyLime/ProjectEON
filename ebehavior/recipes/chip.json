@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:program_chip_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "cRc",
+            "RQR",
+            "cRc"
+        ],
+        "key": {
+            "c": {
+                "item": "minecraft:copper_ingot"
+            },
+            "R": {
+                "item": "minecraft:redstone"
+            },
+            "Q": {
+                "item": "minecraft:quartz"
+            }
+        },
+        "result": {
+            "item": "eon:program_chip",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§l§bProject §3Eon§r - Addon",
+        "description": "§7Enter the §bFuture§7 of Minecraft — featuring §eHover Bikes§7, §dTeleport Pads§7, §aRobot Pets§7, §9Gravity Elevators§7, and more advanced §6Sci-Fi§7 technology!",
+        "uuid": "1547e708-8828-4bcc-b223-05c7a9bcc465",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "10e20e40-ad82-4a65-972e-1c15587da589",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "4c44957f-2b9c-4b95-8101-c08f756dca98",
+            "version": [1, 0, 0]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:cloth_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "w"
+        ],
+        "key": {
+            "w": {
+                "item": "minecraft:wool"
+            }
+        },
+        "result": {
+            "item": "eon:cloth",
+            "count": 8
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:durability_matrix_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " c ",
+            "cQc",
+            " c "
+        ],
+        "key": {
+            "c": {
+                "item": "eon:steel_ingot"
+            },
+            "Q": {
+                "item": "eon:gravitite_shard"
+            }
+        },
+        "result": {
+            "item": "eon:durability_restore",
+            "count": 1
+        }
+    }
+}

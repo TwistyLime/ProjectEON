@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:hazmat_helmet_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#P#",
+            "PGP"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:yellow_wool"
+            },
+            "P": {
+                "item": "eon:reinforced_cloth"
+            },
+            "G": {
+                "item": "minecraft:glass_pane"
+            }
+        },
+        "result": {
+            "item": "eon:hazmat_helmet",
+            "count": 1
+        }
+    }
+}

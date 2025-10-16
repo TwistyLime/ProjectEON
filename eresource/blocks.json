@@ -1,0 +1,39 @@
+{
+	"format_version": "1.21.0",
+	"steel_ore": {
+		"sound": "stone"
+	},
+	"deepslate_steel_ore": {
+		"sound": "deepslate"
+	},
+	"raw_steel_block": {
+		"sound": "stone"
+	},
+	"steel_block": {
+		"sound": "iron"
+	},
+	"uranium_ore": {
+		"sound": "deepslate"
+	},
+	"raw_uranium_block": {
+		"sound": "stone"
+	},
+	"uranium_block": {
+		"sound": "metal"
+	},
+	"gravitite_ore": {
+		"sound": "deepslate"
+	},
+	"gravity_pad": {
+		"sound": "lodestone"
+	},
+	"gravity_gun": {
+		"sound": "stone"
+	},
+	"dome_shield": {
+		"sound": "metal"
+	},
+	"healing_station": {
+		"sound": "metal"
+	}
+}

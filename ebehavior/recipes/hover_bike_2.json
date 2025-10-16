@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:hover_bike_2_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "efc"
+        ],
+        "key": {
+            "e": {
+                "item": "eon:hover_engine"
+            },
+            "f": {
+                "item": "eon:hover_frame"
+            },
+            "c": {
+                "item": "minecraft:chest"
+            }
+        },
+        "result": {
+            "item": "eon:hover_bike_2_spawn_egg",
+            "count": 1
+        }
+    }
+}

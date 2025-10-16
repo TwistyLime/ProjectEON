@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:power_sphere_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "#u#",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "eon:steel_ingot"
+            },
+            "u": {
+                "item": "eon:uranium_ingot"
+            }
+        },
+        "result": {
+            "item": "eon:power_sphere",
+            "count": 1
+        }
+    }
+}

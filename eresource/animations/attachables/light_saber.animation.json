@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.light_saber.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [149.0387, 13.69695, 23.64669],
+					"position": [3.91107, 24.47331, 4.99966]
+				}
+			}
+		},
+		"animation.light_saber.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90, 0, 0],
+					"position": [0, 22.5, 1.5]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:uranium_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "eon:uranium_block"
+            }
+        },
+        "result": {
+            "item": "eon:uranium_ingot",
+            "count": 9
+        }
+    }
+}

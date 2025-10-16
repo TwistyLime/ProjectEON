@@ -1,0 +1,34 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:robot_cat_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "cTc",
+            "PQP",
+            "cTc"
+        ],
+        "key": {
+            "c": {
+                "item": "eon:steel_ingot"
+            },
+            "P": {
+                "item": "eon:program_chip"
+            },
+            "Q": {
+                "item": "minecraft:string"
+            },
+            "T": {
+                "item": "eon:power_sphere"
+            }
+        },
+        "result": {
+            "item": "eon:robot_cat_spawn_egg",
+            "count": 1
+        }
+    }
+}

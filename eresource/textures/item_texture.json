@@ -1,0 +1,84 @@
+{
+	"resource_pack_name": "Eon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"guide": {
+			"textures": "textures/items/guide.png"
+		},
+		"raw_steel": {
+			"textures": "textures/items/raw_steel.png"
+		},
+		"steel_ingot": {
+			"textures": "textures/items/steel_ingot.png"
+		},
+		"raw_uranium": {
+			"textures": "textures/items/raw_uranium.png"
+		},
+		"uranium_ingot": {
+			"textures": "textures/items/uranium_ingot.png"
+		},
+		"gravitite_shard": {
+			"textures": "textures/items/gravitite_shard.png"
+		},
+		"access_card": {
+			"textures": "textures/items/access_card.png"
+		},
+		"power_sphere": {
+			"textures": "textures/items/power_sphere.png"
+		},
+		"program_chip": {
+			"textures": "textures/items/chip.png"
+		},
+		"gravity_core": {
+			"textures": "textures/items/gravity_core.png"
+		},
+		"hover_engine": {
+			"textures": "textures/items/hover_engine.png"
+		},
+		"hover_frame": {
+			"textures": "textures/items/hover_frame.png"
+		},
+		"hover_bike_1": {
+			"textures": "textures/items/hover_bike_1.png"
+		},
+		"hover_bike_2": {
+			"textures": "textures/items/hover_bike_2.png"
+		},
+		"hazmat_boots": {
+			"textures": "textures/items/hazmat_boots.png"
+		},
+		"hazmat_leggings": {
+			"textures": "textures/items/hazmat_leggings.png"
+		},
+		"hazmat_chestplate": {
+			"textures": "textures/items/hazmat_chestplate.png"
+		},
+		"hazmat_helmet": {
+			"textures": "textures/items/hazmat_helmet.png"
+		},
+		"cloth": {
+			"textures": "textures/items/cloth.png"
+		},
+		"reinforced_cloth": {
+			"textures": "textures/items/reinforced_cloth.png"
+		},
+		"night_vision_goggles": {
+            "textures": "textures/items/night_vision_goggles"
+        },
+		"blue_light_saber": {
+			"textures": "textures/items/blue_light_saber.png"
+		},
+		"red_light_saber": {
+			"textures": "textures/items/red_light_saber.png"
+		},
+		"robot_cat": {
+			"textures": "textures/items/robot_cat.png"
+		},
+		"robot_dog": {
+			"textures": "textures/items/robot_dog.png"
+		},
+		"durability_restore": {
+            "textures": "textures/items/durability_restore"
+        }
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:steel_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "eon:steel_block"
+            }
+        },
+        "result": {
+            "item": "eon:steel_ingot",
+            "count": 9
+        }
+    }
+}

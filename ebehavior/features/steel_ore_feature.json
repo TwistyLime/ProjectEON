@@ -1,0 +1,15 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:ore_feature": {
+        "description": {
+            "identifier": "eon:steel_ore_feature"
+        },
+        "count": 4,
+        "replace_rules": [
+            {
+                "places_block": "eon:steel_ore",
+                "may_replace": ["minecraft:stone"]
+            }
+        ]
+    }
+}

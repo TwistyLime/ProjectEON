@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:raw_steel_block_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "###",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "eon:raw_steel"
+            }
+        },
+        "result": {
+            "item": "eon:raw_steel_block",
+            "count": 1
+        }
+    }
+}

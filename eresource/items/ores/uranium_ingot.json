@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eon:uranium_ingot"
+		},
+		"components": {
+			"minecraft:icon": "uranium_ingot",
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}

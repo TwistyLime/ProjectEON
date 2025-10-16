@@ -1,0 +1,15 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:ore_feature": {
+        "description": {
+            "identifier": "eon:uranium_ore_feature"
+        },
+        "count": 3,
+        "replace_rules": [
+            {
+                "places_block": "eon:uranium_ore",
+                "may_replace": ["minecraft:deepslate"]
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eon:hover_engine"
+		},
+		"components": {
+			"minecraft:icon": "hover_engine",
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}

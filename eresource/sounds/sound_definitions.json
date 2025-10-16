@@ -1,0 +1,51 @@
+{
+    "format_version": "1.14.0",
+    "sound_definitions": {
+        "eon.guide.click": {
+            "category": "neutral",
+            "sounds": [
+                { "name": "sounds/click", "load_on_low_memory": false }
+            ]
+        },
+        "hover_bike.engine_hover": {
+            "category": "neutral",
+            "max_distance": 8,
+            "sounds": [
+                {
+                    "name": "sounds/engine_hover",
+                    "load_on_low_memory": true,
+                    "stream": true,
+                    "loop": true
+                }
+            ]
+        },
+        "hover_bike.engine_start": {
+            "category": "neutral",
+            "max_distance": 8,
+            "sounds": [
+                { "name": "sounds/engine_start", "load_on_low_memory": true }
+            ]
+        },
+        "hover_bike.engine_stop": {
+            "category": "neutral",
+            "max_distance": 8,
+            "sounds": [
+                { "name": "sounds/engine_stop", "load_on_low_memory": true }
+            ]
+        },
+        "gravity_gun.grab": {
+            "category": "neutral",
+            "max_distance": 8,
+            "sounds": [
+                { "name": "sounds/grab", "load_on_low_memory": true }
+            ]
+        },
+        "gravity_gun.release": {
+            "category": "neutral",
+            "max_distance": 8,
+            "sounds": [
+                { "name": "sounds/release", "load_on_low_memory": true }
+            ]
+        }
+    }
+}

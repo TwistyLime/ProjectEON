@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:hazmat_leggings_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#P#",
+            "P P",
+            "P P"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:black_wool"
+            },
+            "P": {
+                "item": "eon:reinforced_cloth"
+            }
+        },
+        "result": {
+            "item": "eon:hazmat_leggings",
+            "count": 1
+        }
+    }
+}

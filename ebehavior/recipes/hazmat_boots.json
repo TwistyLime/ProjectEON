@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:hazmat_boots_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "# #",
+            "# #",
+            "B B"
+        ],
+        "key": {
+            "#": {
+                "item": "eon:reinforced_cloth"
+            },
+            "B": {
+                "item": "minecraft:black_wool"
+            }
+        },
+        "result": {
+            "item": "eon:hazmat_boots",
+            "count": 1
+        }
+    }
+}

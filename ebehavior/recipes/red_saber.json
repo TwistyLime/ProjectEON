@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:red_saber_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "  r",
+            " p ",
+            "s  "
+        ],
+        "key": {
+            "r": {
+                "item": "minecraft:redstone"
+            },
+            "s": {
+                "item": "eon:steel_ingot"
+            },
+            "p": {
+                "item": "eon:power_sphere"
+            }
+        },
+        "result": {
+            "item": "eon:red_light_saber",
+            "count": 1
+        }
+    }
+}

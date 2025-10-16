@@ -1,0 +1,30 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "eon:robot_cat",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/robot_cat"
+			},
+			"geometry": {
+				"default": "geometry.robot_cat"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"texture": "robot_cat"
+			},
+			"scripts": {
+                "animate": ["movement_controller"]
+            },
+            "animations": {
+                "idle": "animation.robotcat.idle",
+                "walk": "animation.robotcat.walk",
+                "pet": "animation.robotcat.pet",
+                "movement_controller": "controller.animation.robot_cat"
+            }
+		}
+	}
+}

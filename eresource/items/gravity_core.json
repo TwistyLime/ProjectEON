@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eon:gravity_core"
+		},
+		"components": {
+			"minecraft:icon": "gravity_core",
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "eon:uranium_smelting"
+        },
+        "tags": [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input": {
+            "item": "eon:raw_uranium"
+        },
+        "output": {
+            "item": "eon:uranium_ingot"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "eon:gravitite_shard"
+		},
+		"components": {
+			"minecraft:icon": "gravitite_shard",
+			"minecraft:render_offsets": "tools"
+		}
+	}
+}

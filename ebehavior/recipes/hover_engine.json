@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eon:hover_engine_recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "ccc",
+            "CRC",
+            "ccc"
+        ],
+        "key": {
+            "c": {
+                "item": "eon:steel_ingot"
+            },
+            "C": {
+                "item": "eon:program_chip"
+            },
+            "R": {
+                "item": "eon:gravity_core"
+            }
+        },
+        "result": {
+            "item": "eon:hover_engine",
+            "count": 1
+        }
+    }
+}

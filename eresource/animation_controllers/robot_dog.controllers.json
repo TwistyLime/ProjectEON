@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0",
+    "animation_controllers": {
+        "controller.animation.robot_dog": {
+            "initial_state": "default",
+            "states": {
+                "default": {
+                    "animations": ["idle"],
+                    "transitions": [
+                        { "walking": "query.is_moving" },
+                        { "sitting": "query.is_sitting" }
+                    ]
+                },
+                "walking": {
+                    "animations": ["walk"],
+                    "transitions": [
+                        { "default": "!query.is_moving && !query.is_sitting" },
+                        { "sitting": "query.is_sitting" }
+                    ]
+                },
+                "sitting": {
+                    "animations": ["sit"],
+                    "transitions": [{ "default": "!query.is_sitting" }]
+                }
+            }
+        }
+    }
+}

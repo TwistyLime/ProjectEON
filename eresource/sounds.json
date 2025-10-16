@@ -1,0 +1,55 @@
+{
+    "entity_sounds": {
+        "entities": {
+            "eon:robot_dog": {
+                "__molang_version": 12,
+                "events": {
+                    "ambient": "mob.wolf.bark",
+                    "death": "mob.wolf.death",
+                    "eat": "",
+                    "growl": "mob.wolf.growl",
+                    "hurt": "mob.wolf.hurt",
+                    "hurt.reduced": "armor.damage_wolf",
+                    "pant": "mob.wolf.panting",
+                    "shake": {
+                        "pitch": [0.8, 1.2],
+                        "sound": "mob.wolf.shake"
+                    },
+                    "step": {
+                        "pitch": 1.0,
+                        "sound": "mob.wolf.step",
+                        "volume": 0.65
+                    },
+                    "whine": "mob.wolf.whine"
+                },
+                "pitch": [0.8, 1.2],
+                "volume": 1.0
+            },
+            "eon:robot_cat": {
+                "events": {
+                    "ambient": "mob.cat.straymeow",
+                    "ambient.tame": "mob.cat.meow",
+                    "death": {
+                        "pitch": 0.9,
+                        "sound": "mob.cat.hit",
+                        "volume": 0.5
+                    },
+                    "eat": "mob.cat.eat",
+                    "hurt": {
+                        "sound": "mob.cat.hit",
+                        "volume": 0.45
+                    },
+                    "purr": "mob.cat.purr",
+                    "purreow": "mob.cat.purreow",
+                    "tempt": {
+                        "pitch": 1.0,
+                        "sound": "mob.cat.beg_for_food",
+                        "volume": 0.7
+                    }
+                },
+                "pitch": [0.8, 1.2],
+                "volume": 1.0
+            }
+        }
+    }
+}
